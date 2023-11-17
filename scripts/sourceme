@@ -1,0 +1,4 @@
+setenv PROJ_PATH ${cwd}/..
+setenv RTL_PATH ${PROJ_PATH}/rtl
+
+setenv PATH ${PROJ_PATH}/scripts:$PATH
